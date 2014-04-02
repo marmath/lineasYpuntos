@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "lineasYpuntos";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "lineasYpuntos version 1.0, Copyright (c) 2014 MartinGarces.";
+NSHumanReadableCopyright = "Copyright (c) 2014 MartinGarces.";
